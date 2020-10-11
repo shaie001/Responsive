@@ -1,1 +1,1 @@
-# Responsive
+this profolio contains an about me page, there are three links that work located on the upper right corner of the about me page. the first link will take the user to the Home page, the second link takes the user to the porfolio page, the user will find three pictures then the third will take the user to the contact page. 

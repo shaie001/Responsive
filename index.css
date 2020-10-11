@@ -1,0 +1,30 @@
+
+.logo {
+    padding-right: 50em;
+}
+
+.container{
+    background-color:white;
+    padding: 15px;
+
+}
+
+.card {
+    margin: 20px;
+
+}
+
+.About-me img{
+    float: left;
+    margin: 1em;
+}
+
+.navbar-nav {
+    margin-left: 40em;
+}
+
+body { 
+    background-image: url(https://i.pinimg.com/originals/3c/ba/71/3cba71a023613a5bf289e42e4ad9f92a.png);
+
+    background-position: 100x 200px; 
+  }
